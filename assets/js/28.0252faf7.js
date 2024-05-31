@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[28],{352:function(t,n,s){"use strict";s.r(n);var e=s(7),o=Object(e.a)({},(function(){var t=this._self._c;return t("ContentSlotsDistributor",{attrs:{"slot-key":this.$parent.slotKey}},[t("p",[this._v("左移动 => 2的n次平方\n右移动 => 2的n次开方")])])}),[],!1,null,null,null);n.default=o.exports}}]);
